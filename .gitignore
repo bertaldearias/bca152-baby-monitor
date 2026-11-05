@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+sdkconfig
+sdkconfig.*
+!sdkconfig.defaults
+.env
+.env.*
+!.env.example
+*.log
