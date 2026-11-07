@@ -7,3 +7,10 @@ sdkconfig.*
 .env.*
 !.env.example
 *.log
+# Local audio datasets
+Datasets/
+
+# PlatformIO template folders
+include/
+lib/
+test/
